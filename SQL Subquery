@@ -1,6 +1,6 @@
 SQL query returns the top 5 customers from the top 10 cities from the top 10 countries by number of customers
 
-Here is a SQL query containing a subquery:
+Here is a SQL query containing subqueries:
 
 SELECT
     A.customer_id,
