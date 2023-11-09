@@ -7,3 +7,7 @@ This is a project that I created for the CareerFoundry bootcamp in Data Analytic
 - SQL
 - Tableau
 - Excel
+
+## Methodology
+
+## Deliverables
