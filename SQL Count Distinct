@@ -1,4 +1,4 @@
-This SQL query returns the most popular films, rental rates, and generated revenue ordered by the number of times rented.
+This SQL query returns the different film genres, their revenues, the number of films in each genre, and average revenue per film ordered by total revenue amount.
 
 Here is the SQL query:
 
