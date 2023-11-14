@@ -1,4 +1,6 @@
-Here is a SQL statement containing INNER JOIN, GROUP BY, and ORDER BY clauses as well as derived columns:
+This SQL query returns the most popular films, rental rates, and generated revenue ordered by the number of rentals.
+
+Here is the SQL query:
 
 SELECT
     C.title,
