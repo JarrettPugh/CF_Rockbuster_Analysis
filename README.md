@@ -11,7 +11,7 @@ This is a project that I created for the CareerFoundry bootcamp in Data Analytic
 ## Methodology
 
 ## Deliverables
-- [Rockbuster Data Dictionary]([Rockbuster Data Dictionary.pdf](https://github.com/JarrettPugh/CF_Rockbuster_Analysis/blob/94ed009dd37574efe2b9b2e0f7d708db325c12d9/Rockbuster%20Data%20Dictionary.pdf))
+- ([Rockbuster Data Dictionary.pdf](https://github.com/JarrettPugh/CF_Rockbuster_Analysis/blob/94ed009dd37574efe2b9b2e0f7d708db325c12d9/Rockbuster%20Data%20Dictionary.pdf))
 - 
 - [Tableau Visualizations](https://public.tableau.com/app/profile/jarrett.pugh/viz/RockbusterStealth_16968176106630/RevenuebyCountrywithTop5Customers)
 - 
