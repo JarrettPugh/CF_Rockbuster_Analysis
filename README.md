@@ -8,7 +8,13 @@ This is a project that I created for the CareerFoundry bootcamp in Data Analytic
 - Tableau
 - Excel
 
-## Methodology
+## Data Analysis Process
+1. Define project objective and key business questions
+2. Load Rockbuster data set into PostgreSQL Database
+3. Summarize and clean data
+4. Write SQL queries to answer business questions
+5. Import SQL query outputs into Tableau to create visualizations
+6. Create presentation for stakeholders
 
 ## Deliverables
 - [Rockbuster PPT Presentation](https://github.com/JarrettPugh/CF_Rockbuster_Analysis/blob/0b850ccd616bff6bd078851749269ca9d636d90b/Rockbuster%20Presentation.pptx)
