@@ -11,3 +11,5 @@ This is a project that I created for the CareerFoundry bootcamp in Data Analytic
 ## Methodology
 
 ## Deliverables
+- Rockbuster Data Dictionary
+- [Tableau Visuzlizations]([url](https://public.tableau.com/app/profile/jarrett.pugh/viz/RockbusterStealth_16968176106630/RevenuebyCountrywithTop5Customers)https://public.tableau.com/app/profile/jarrett.pugh/viz/RockbusterStealth_16968176106630/RevenuebyCountrywithTop5Customers)
