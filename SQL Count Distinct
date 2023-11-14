@@ -1,6 +1,6 @@
+This SQL query returns the most popular films, rental rates, and generated revenue ordered by the number of times rented.
 
-
-
+Here is the SQL query:
 
 SELECT
     E.name AS film_genre,
