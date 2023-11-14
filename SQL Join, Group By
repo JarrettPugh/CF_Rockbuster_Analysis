@@ -1,5 +1,6 @@
+This SQL query returns all countries, the number of customers, and the total revenue earned from each country ordered by total revenue
 
-
+Here is the SQL query:
 
 SELECT
     E.country,
