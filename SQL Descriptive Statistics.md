@@ -2,6 +2,7 @@ This SQL query returns the min, max, and avg of all quantitative fields and the 
 
 Here is the SQL query:
 
+```sql
 SELECT	
 	MIN(rental_duration) AS min_rental_duration,
 	MAX(rental_duration) AS max_rental_duration,
@@ -25,3 +26,4 @@ SELECT
 	MODE() WITHIN GROUP (ORDER BY special_features) AS modal_special_features_value,
 	MODE() WITHIN GROUP (ORDER BY fulltext) AS modal_fulltext_value
 FROM film	
+```
