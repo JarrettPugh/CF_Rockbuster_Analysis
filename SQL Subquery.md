@@ -2,6 +2,7 @@ This SQL query returns the top 5 customers from the top 10 cities from the top 1
 
 Here is the SQL query:
 
+```sql
 SELECT
     A.customer_id,
     B.first_name,
@@ -56,3 +57,4 @@ GROUP BY
 ORDER BY
     total_amount_paid DESC
 LIMIT 5
+```
