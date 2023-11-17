@@ -2,6 +2,7 @@ This SQL query returns all countries, the number of customers, and the total rev
 
 Here is the SQL query:
 
+```sql
 SELECT
     E.country,
     COUNT(DISTINCT B.customer_id) AS customer_numbers,
@@ -16,3 +17,4 @@ GROUP BY
     E.country
 ORDER BY
     revenue_amount DESC;
+```
