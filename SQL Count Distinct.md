@@ -2,6 +2,7 @@ This SQL query returns the different film genres, their revenues, the number of 
 
 Here is the SQL query:
 
+```sql
 SELECT
     E.name AS film_genre,
     SUM(A.amount) AS revenue_amount,
@@ -18,3 +19,4 @@ GROUP BY
     film_genre
 ORDER BY
     revenue_amount DESC;
+```
