@@ -2,7 +2,7 @@ This SQL query returns the most popular films, rental rates, and generated reven
 
 Here is the SQL query:
 
-~~~SQL
+```SQL
 SELECT
     C.title,
     COUNT(A.rental_id) AS number_of_rentals,
@@ -25,4 +25,4 @@ ORDER BY
     number_of_rentals DESC,
     rental_revenue DESC,
     total_revenue DESC
-~~~
+```
