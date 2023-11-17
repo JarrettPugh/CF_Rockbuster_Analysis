@@ -18,5 +18,5 @@ FROM
 GROUP BY
     film_genre
 ORDER BY
-    revenue_amount DESC;
+    revenue_amount DESC
 ```
