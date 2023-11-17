@@ -16,5 +16,5 @@ FROM
 GROUP BY
     E.country
 ORDER BY
-    revenue_amount DESC;
+    revenue_amount DESC
 ```
