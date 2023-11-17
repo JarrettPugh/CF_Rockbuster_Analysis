@@ -24,5 +24,5 @@ GROUP BY
 ORDER BY
     number_of_rentals DESC,
     rental_revenue DESC,
-    total_revenue DESC;
+    total_revenue DESC
 ~~~
