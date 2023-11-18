@@ -23,3 +23,6 @@ This is a project that I created for the CareerFoundry bootcamp in Data Analytic
   
 - [Tableau Visualizations](https://public.tableau.com/app/profile/jarrett.pugh/viz/RockbusterStealth_16968176106630/RevenuebyCountrywithTop5Customers)
   
+## Data Citations
+- [Rockbuster Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+  
